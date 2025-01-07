@@ -1,6 +1,7 @@
 # Trends-in-Startups 
 
 This project is part of Codecademy's Data Analysis course and demonstrates how SQL can be used to analyze startup data. This project demonstrates the power of SQL in data analysis by exploring and drawing insights from real-world startup data.
+link to codecademy: https://www.codecademy.com/courses/learn-sql/projects/fakeapps
 
 ## Description
 
